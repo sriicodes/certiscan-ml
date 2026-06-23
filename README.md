@@ -58,7 +58,3 @@ jupyter notebook
 - Add model saving/loading
 - Add visualization dashboards
 - Deploy using Streamlit or Flask
-
-## Author
-
-Shaivi,Rinav.
