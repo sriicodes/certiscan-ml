@@ -1,4 +1,4 @@
-# Machine Learning Mini Project
+# Model
 
 This repository contains a machine learning project originally developed in a Kaggle notebook.
 
